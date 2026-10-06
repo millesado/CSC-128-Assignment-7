@@ -2,9 +2,9 @@
 
 
 
-\*\*Student:\*\* Michelle Salgado  
+Student: Michelle Salgado  
 
-\*\*Course:\*\* CSC-128 Chatbot Programming I
+Course: CSC-128 Chatbot Programming I
 
 
 
