@@ -1,4 +1,4 @@
-\# Assignment 7: Agent with Tools
+# Assignment 7: Agent with Tools
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-\## Project Description
+## Project Description
 
 
 
@@ -38,7 +38,7 @@ Before `book\_room` can run, the user must confirm the reservation. The Streamli
 
 
 
-\## A Function I Deliberately Did Not Write
+## A Function I Deliberately Did Not Write
 
 
 
@@ -50,7 +50,7 @@ Instead of relying only on instructions telling the model not to delete reservat
 
 
 
-\## What Happens If the Model Requests an Unknown Tool
+## What Happens If the Model Requests an Unknown Tool
 
 
 
@@ -82,7 +82,7 @@ This proves that an unknown tool is rejected safely instead of being executed.
 
 
 
-\## Tool Description Rewrite
+## Tool Description Rewrite
 
 
 
@@ -114,7 +114,7 @@ The new version is more specific and makes it clear that `book\_room` should be 
 
 
 
-\## Confirmation Before a State-Changing Tool
+## Confirmation Before a State-Changing Tool
 
 
 
@@ -130,7 +130,7 @@ I tested the confirmation by requesting Room 216 on Thursday and then clicking C
 
 
 
-\## Testing and Safety
+## Testing and Safety
 
 
 
